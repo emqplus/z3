@@ -1,6 +1,6 @@
 # z3
 
-S3-compatible storage of Zig.
+S3-compatible storage.
 
 > Thanks to the [zs3](https://github.com/Lulzx/zs3) project — some code and documentation originates from it.
 
